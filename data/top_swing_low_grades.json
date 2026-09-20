@@ -1,0 +1,59 @@
+{
+  "last_updated": "2026-09-18 22:55:54",
+  "top_5": [
+    {
+      "symbol": "JIOFIN",
+      "name": "JIOFIN",
+      "grade": "A Setup",
+      "score": 7.5,
+      "swing_low": 230.77,
+      "stop_loss": 232.71,
+      "entry_a": 229.89,
+      "target_1": 225.85,
+      "target_2": 220.93,
+      "triggered_bars_ago": 0,
+      "setup_time": "2026-09-18 09:45"
+    },
+    {
+      "symbol": "TIINDIA",
+      "name": "TIINDIA",
+      "grade": "B Setup",
+      "score": 7.0,
+      "swing_low": 2582.3,
+      "stop_loss": 2622.94,
+      "entry_a": 2574.0,
+      "target_1": 2519.5,
+      "target_2": 2456.7,
+      "triggered_bars_ago": 15,
+      "setup_time": "2026-09-16 08:45"
+    }
+  ],
+  "all_grades": [
+    {
+      "symbol": "JIOFIN",
+      "name": "JIOFIN",
+      "grade": "A Setup",
+      "score": 7.5,
+      "swing_low": 230.77,
+      "stop_loss": 232.71,
+      "entry_a": 229.89,
+      "target_1": 225.85,
+      "target_2": 220.93,
+      "triggered_bars_ago": 0,
+      "setup_time": "2026-09-18 09:45"
+    },
+    {
+      "symbol": "TIINDIA",
+      "name": "TIINDIA",
+      "grade": "B Setup",
+      "score": 7.0,
+      "swing_low": 2582.3,
+      "stop_loss": 2622.94,
+      "entry_a": 2574.0,
+      "target_1": 2519.5,
+      "target_2": 2456.7,
+      "triggered_bars_ago": 15,
+      "setup_time": "2026-09-16 08:45"
+    }
+  ]
+}

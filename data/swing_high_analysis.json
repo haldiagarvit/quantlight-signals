@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "report": "SCAN RESULT: NO SETUP \u2014 360ONE \u2014 No valid accumulation shelf found (only 1 of 4 shelf candles)",
+    "raw": {
+        "grade": "REJECT",
+        "score": 0.0,
+        "reason": "No valid accumulation shelf"
+    }
+}

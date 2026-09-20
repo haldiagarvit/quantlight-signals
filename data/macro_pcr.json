@@ -1,0 +1,247 @@
+[
+  {
+    "timestamp": "2026-07-09T08:06:30.335596",
+    "nifty_pcr": 1.0,
+    "banknifty_pcr": 1.0
+  },
+  {
+    "timestamp": "2026-07-12T09:37:27.740665",
+    "nifty_pcr": 1.249,
+    "banknifty_pcr": 0.986
+  },
+  {
+    "timestamp": "2026-07-13T23:05:22.025877",
+    "nifty_pcr": 1.43,
+    "banknifty_pcr": 1.019
+  },
+  {
+    "timestamp": "2026-07-14T22:42:45.886621",
+    "nifty_pcr": 1.012,
+    "banknifty_pcr": 0.905
+  },
+  {
+    "timestamp": "2026-07-15T23:06:34.539545",
+    "nifty_pcr": 1.012,
+    "banknifty_pcr": 0.905
+  },
+  {
+    "timestamp": "2026-07-16T22:10:43.748654",
+    "nifty_pcr": 0.969,
+    "banknifty_pcr": 0.847
+  },
+  {
+    "timestamp": "2026-07-17T21:08:06.025270",
+    "nifty_pcr": 1.423,
+    "banknifty_pcr": 1.051
+  },
+  {
+    "timestamp": "2026-07-18T13:44:50.271981",
+    "nifty_pcr": 1.423,
+    "banknifty_pcr": 1.051
+  },
+  {
+    "timestamp": "2026-07-22T23:44:01.239536",
+    "nifty_pcr": 0.907,
+    "banknifty_pcr": 0.917
+  },
+  {
+    "timestamp": "2026-07-23T23:41:50.876103",
+    "nifty_pcr": 0.796,
+    "banknifty_pcr": 0.747
+  },
+  {
+    "timestamp": "2026-07-24T22:48:42.359506",
+    "nifty_pcr": 0.891,
+    "banknifty_pcr": 0.826
+  },
+  {
+    "timestamp": "2026-07-27T23:29:09.829646",
+    "nifty_pcr": 1.106,
+    "banknifty_pcr": 0.795
+  },
+  {
+    "timestamp": "2026-07-28T22:31:20.750199",
+    "nifty_pcr": 0.989,
+    "banknifty_pcr": 0.718
+  },
+  {
+    "timestamp": "2026-07-29T23:18:01.640401",
+    "nifty_pcr": 1.183,
+    "banknifty_pcr": 0.95
+  },
+  {
+    "timestamp": "2026-07-30T23:03:51.014969",
+    "nifty_pcr": 1.257,
+    "banknifty_pcr": 0.932
+  },
+  {
+    "timestamp": "2026-08-03T22:40:34.046554",
+    "nifty_pcr": 1.398,
+    "banknifty_pcr": 0.937
+  },
+  {
+    "timestamp": "2026-08-04T23:15:30.505061",
+    "nifty_pcr": 0.997,
+    "banknifty_pcr": 0.905
+  },
+  {
+    "timestamp": "2026-08-05T22:33:24.455672",
+    "nifty_pcr": 0.907,
+    "banknifty_pcr": 0.89
+  },
+  {
+    "timestamp": "2026-08-06T23:32:40.123892",
+    "nifty_pcr": 1.045,
+    "banknifty_pcr": 1.021
+  },
+  {
+    "timestamp": "2026-08-07T22:32:08.789261",
+    "nifty_pcr": 0.889,
+    "banknifty_pcr": 0.946
+  },
+  {
+    "timestamp": "2026-08-10T22:41:37.524648",
+    "nifty_pcr": 0.989,
+    "banknifty_pcr": 0.91
+  },
+  {
+    "timestamp": "2026-08-11T22:44:06.439374",
+    "nifty_pcr": 0.872,
+    "banknifty_pcr": 0.878
+  },
+  {
+    "timestamp": "2026-08-12T23:13:40.377267",
+    "nifty_pcr": 0.918,
+    "banknifty_pcr": 0.929
+  },
+  {
+    "timestamp": "2026-08-13T22:30:38.676913",
+    "nifty_pcr": 0.92,
+    "banknifty_pcr": 0.919
+  },
+  {
+    "timestamp": "2026-08-14T22:32:09.566462",
+    "nifty_pcr": 0.983,
+    "banknifty_pcr": 0.852
+  },
+  {
+    "timestamp": "2026-08-18T23:41:14.839951",
+    "nifty_pcr": 0.771,
+    "banknifty_pcr": 0.799
+  },
+  {
+    "timestamp": "2026-08-19T22:37:16.954980",
+    "nifty_pcr": 0.811,
+    "banknifty_pcr": 0.816
+  },
+  {
+    "timestamp": "2026-08-20T22:57:31.355276",
+    "nifty_pcr": 1.122,
+    "banknifty_pcr": 0.935
+  },
+  {
+    "timestamp": "2026-08-21T22:12:00.475914",
+    "nifty_pcr": 1.114,
+    "banknifty_pcr": 0.983
+  },
+  {
+    "timestamp": "2026-08-24T22:59:23.795916",
+    "nifty_pcr": 0.829,
+    "banknifty_pcr": 0.832
+  },
+  {
+    "timestamp": "2026-08-25T22:53:11.053363",
+    "nifty_pcr": 1.127,
+    "banknifty_pcr": 0.955
+  },
+  {
+    "timestamp": "2026-08-26T23:00:08.625424",
+    "nifty_pcr": 0.905,
+    "banknifty_pcr": 1.163
+  },
+  {
+    "timestamp": "2026-08-27T22:08:17.543445",
+    "nifty_pcr": 0.772,
+    "banknifty_pcr": 1.123
+  },
+  {
+    "timestamp": "2026-08-28T23:52:10.361106",
+    "nifty_pcr": 0.889,
+    "banknifty_pcr": 1.134
+  },
+  {
+    "timestamp": "2026-08-29T15:11:46.413478",
+    "nifty_pcr": 0.889,
+    "banknifty_pcr": 1.134
+  },
+  {
+    "timestamp": "2026-08-31T23:16:47.766827",
+    "nifty_pcr": 0.906,
+    "banknifty_pcr": 1.144
+  },
+  {
+    "timestamp": "2026-09-01T22:30:08.896457",
+    "nifty_pcr": 0.876,
+    "banknifty_pcr": 1.08
+  },
+  {
+    "timestamp": "2026-09-02T22:30:53.302582",
+    "nifty_pcr": 0.872,
+    "banknifty_pcr": 1.081
+  },
+  {
+    "timestamp": "2026-09-03T22:55:05.419665",
+    "nifty_pcr": 0.795,
+    "banknifty_pcr": 1.07
+  },
+  {
+    "timestamp": "2026-09-04T22:10:56.722936",
+    "nifty_pcr": 0.921,
+    "banknifty_pcr": 1.062
+  },
+  {
+    "timestamp": "2026-09-07T21:52:07.869899",
+    "nifty_pcr": 0.692,
+    "banknifty_pcr": 0.999
+  },
+  {
+    "timestamp": "2026-09-08T23:11:24.368157",
+    "nifty_pcr": 0.719,
+    "banknifty_pcr": 0.917
+  },
+  {
+    "timestamp": "2026-09-09T22:34:21.980848",
+    "nifty_pcr": 0.751,
+    "banknifty_pcr": 0.88
+  },
+  {
+    "timestamp": "2026-09-10T23:19:04.712178",
+    "nifty_pcr": 0.77,
+    "banknifty_pcr": 0.854
+  },
+  {
+    "timestamp": "2026-09-11T23:04:25.640068",
+    "nifty_pcr": 1.006,
+    "banknifty_pcr": 0.935
+  },
+  {
+    "timestamp": "2026-09-15T22:50:42.079836",
+    "nifty_pcr": 0.673,
+    "banknifty_pcr": 0.812
+  },
+  {
+    "timestamp": "2026-09-16T22:50:32.585209",
+    "nifty_pcr": 0.96,
+    "banknifty_pcr": 0.882
+  },
+  {
+    "timestamp": "2026-09-17T22:56:34.953800",
+    "nifty_pcr": 0.986,
+    "banknifty_pcr": 0.841
+  },
+  {
+    "timestamp": "2026-09-18T22:58:36.384231",
+    "nifty_pcr": 1.062,
+    "banknifty_pcr": 0.913
+  }
+]

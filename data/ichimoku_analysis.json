@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "report": "Index: 360ONE - EQ\nTimeframe: 1H\nSignal type: Trend Continuation (Bearish)\n\nBIAS: BEARISH\nBias reasoning (one line per factor, mark each as ALIGNED or CONFLICT):\n  - Price vs cloud: below \u2192 ALIGNED\n  - Cloud ahead: red \u2192 ALIGNED\n  - Tenkan vs Kijun: below \u2192 ALIGNED\n  - Chikou span: below \u2192 ALIGNED\n\nSIGNAL GRADE: B\nGrade logic: 4 of 4 bias factors aligned. Late-session signal: confirm on next day's open before executing.\n\nENTRY:\n  Direction: SHORT\n  Entry zone: on close below 1116.9\n  Entry trigger: Wait for solid 1H candle body close\n\nSTOP-LOSS:\n  Level: above Kijun at 1116.9\n  Type: Standard\n  Invalidation: Close inside opposite side of Kumo cloud\n\nTARGETS:\n  T1: 1076.92\n  T2: 1060.61\n  T3: trail stop to Kijun, hold as long as price stays below it\n\nRISK PARAMETERS:\n  Risk-reward (T1): 1:0.37\n  Risk-reward (T2): 1:0.93\n  Recommended position size: Half\n\nACTIVE MONITORS (conditions that would change the call):\n  - Kumo twist in next 3 bars would negate bias\n  - Chikou entering cloud would reduce grade\n  - Price failing to hold Kijun on next close = exit signal\n",
+    "raw": {
+        "grade": "B",
+        "bias": "BEARISH",
+        "signal": "Trend Continuation (Bearish)",
+        "span_a": 1144.0,
+        "span_b": 1098.15,
+        "kijun": 1116.9,
+        "long_entry": "close > 1144.0",
+        "long_sl": "1116.9",
+        "long_t1": "1098.68",
+        "long_t2": "1115.0",
+        "short_entry": "close < 1116.9",
+        "short_sl": "1116.9",
+        "short_t1": "1076.92",
+        "short_t2": "1060.61"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "report": "SCAN RESULT: NO SETUP \u2014 360ONE \u2014 Swing range is too tight (1.46% < 1.5% minimum)",
+    "raw": {
+        "grade": "REJECT",
+        "score": 0.0,
+        "reason": "Swing range too tight"
+    }
+}

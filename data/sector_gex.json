@@ -1,0 +1,158 @@
+{
+  "sectors": [
+    {
+      "sector": "TELECOM",
+      "net_gex_cr": 22759830.28,
+      "pos_gex_cr": 22759830.28,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 2,
+      "below_flip": 0
+    },
+    {
+      "sector": "OTHER",
+      "net_gex_cr": 4027192.09,
+      "pos_gex_cr": 4027360.61,
+      "neg_gex_cr": -168.52,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 81,
+      "below_flip": 53
+    },
+    {
+      "sector": "BANKING",
+      "net_gex_cr": 714467.73,
+      "pos_gex_cr": 714467.73,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 15,
+      "below_flip": 12
+    },
+    {
+      "sector": "POWER",
+      "net_gex_cr": 241117.47,
+      "pos_gex_cr": 241117.47,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 7,
+      "below_flip": 3
+    },
+    {
+      "sector": "METALS",
+      "net_gex_cr": 183541.61,
+      "pos_gex_cr": 183850.9,
+      "neg_gex_cr": -309.29,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 9,
+      "below_flip": 8
+    },
+    {
+      "sector": "OIL_GAS",
+      "net_gex_cr": 183525.6,
+      "pos_gex_cr": 183525.6,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 8,
+      "below_flip": 5
+    },
+    {
+      "sector": "CAPGOODS",
+      "net_gex_cr": 97560.97,
+      "pos_gex_cr": 97560.97,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 10,
+      "below_flip": 7
+    },
+    {
+      "sector": "FMCG",
+      "net_gex_cr": 87231.03,
+      "pos_gex_cr": 87364.3,
+      "neg_gex_cr": -133.27,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 11,
+      "below_flip": 7
+    },
+    {
+      "sector": "NBFC_INSURANCE",
+      "net_gex_cr": 79303.41,
+      "pos_gex_cr": 81561.76,
+      "neg_gex_cr": -2258.35,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 14,
+      "below_flip": 11
+    },
+    {
+      "sector": "IT",
+      "net_gex_cr": 42116.92,
+      "pos_gex_cr": 42116.92,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 11,
+      "below_flip": 10
+    },
+    {
+      "sector": "AUTO",
+      "net_gex_cr": 30951.9,
+      "pos_gex_cr": 30954.36,
+      "neg_gex_cr": -2.46,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 8,
+      "below_flip": 7
+    },
+    {
+      "sector": "CONSUMER",
+      "net_gex_cr": 22270.11,
+      "pos_gex_cr": 22270.11,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 9,
+      "below_flip": 5
+    },
+    {
+      "sector": "PHARMA",
+      "net_gex_cr": 20437.15,
+      "pos_gex_cr": 20437.15,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 10,
+      "below_flip": 6
+    },
+    {
+      "sector": "CEMENT",
+      "net_gex_cr": 5113.19,
+      "pos_gex_cr": 5113.19,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 3,
+      "below_flip": 2
+    },
+    {
+      "sector": "REALESTATE",
+      "net_gex_cr": 2700.63,
+      "pos_gex_cr": 2700.63,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 5,
+      "below_flip": 3
+    },
+    {
+      "sector": "INDEX",
+      "net_gex_cr": 1811.45,
+      "pos_gex_cr": 1811.45,
+      "neg_gex_cr": 0.0,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 4,
+      "below_flip": 4
+    },
+    {
+      "sector": "CHEMICALS",
+      "net_gex_cr": 20.24,
+      "pos_gex_cr": 469.46,
+      "neg_gex_cr": -449.22,
+      "regime": "LONG_GAMMA",
+      "symbol_count": 4,
+      "below_flip": 3
+    }
+  ],
+  "generated_at": "2026-09-18 22:48:14"
+}

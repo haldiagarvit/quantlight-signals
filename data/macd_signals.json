@@ -1,0 +1,1221 @@
+{
+  "generated_at": "2026-09-18 22:38:22",
+  "bullish_crossover": [
+    {
+      "symbol": "NAVINFLUOR",
+      "date": "2026-09-08",
+      "price": 8731.0,
+      "macd": 201.513,
+      "signal": 199.259,
+      "histogram": 2.254,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "PAYTM",
+      "date": "2026-09-16",
+      "price": 1793.0,
+      "macd": 89.114,
+      "signal": 88.91,
+      "histogram": 0.204,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "FINCABLES",
+      "date": "2026-09-10",
+      "price": 1418.4,
+      "macd": 49.765,
+      "signal": 44.886,
+      "histogram": 4.879,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "date": "2026-09-08",
+      "price": 1457.8,
+      "macd": 41.677,
+      "signal": 40.863,
+      "histogram": 0.814,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "SYRMA",
+      "date": "2026-09-07",
+      "price": 1634.8,
+      "macd": 26.557,
+      "signal": 21.168,
+      "histogram": 5.389,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "date": "2026-09-07",
+      "price": 1692.0,
+      "macd": 24.431,
+      "signal": 23.877,
+      "histogram": 0.554,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "KPIL",
+      "date": "2026-09-10",
+      "price": 1432.0,
+      "macd": 19.64,
+      "signal": 19.453,
+      "histogram": 0.187,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "REDINGTON",
+      "date": "2026-09-10",
+      "price": 392.0,
+      "macd": 16.139,
+      "signal": 15.374,
+      "histogram": 0.765,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "ASAHIINDIA",
+      "date": "2026-09-11",
+      "price": 985.8,
+      "macd": 15.445,
+      "signal": 14.759,
+      "histogram": 0.686,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "ACMESOLAR",
+      "date": "2026-09-15",
+      "price": 420.4,
+      "macd": 8.565,
+      "signal": 8.451,
+      "histogram": 0.114,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "PFOCUS",
+      "date": "2026-09-07",
+      "price": 311.75,
+      "macd": 5.977,
+      "signal": 5.196,
+      "histogram": 0.781,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "RBLBANK",
+      "date": "2026-09-02",
+      "price": 408.1,
+      "macd": 5.669,
+      "signal": 5.285,
+      "histogram": 0.384,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "SUNDARMFIN",
+      "date": "2026-09-02",
+      "price": 4557.2,
+      "macd": 5.064,
+      "signal": 4.825,
+      "histogram": 0.239,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "AEGISLOG",
+      "date": "2026-09-11",
+      "price": 1353.6,
+      "macd": 3.997,
+      "signal": 0.943,
+      "histogram": 3.054,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "SBICARD",
+      "date": "2026-09-03",
+      "price": 658.25,
+      "macd": 3.655,
+      "signal": 3.381,
+      "histogram": 0.274,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "PINELABS",
+      "date": "2026-09-08",
+      "price": 169.55,
+      "macd": 2.456,
+      "signal": 2.35,
+      "histogram": 0.106,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "JSWINFRA",
+      "date": "2026-09-11",
+      "price": 343.15,
+      "macd": 2.065,
+      "signal": 1.974,
+      "histogram": 0.091,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "BPCL",
+      "date": "2026-09-01",
+      "price": 319.6,
+      "macd": 1.356,
+      "signal": 1.274,
+      "histogram": 0.082,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "WOCKPHARMA",
+      "date": "2026-09-03",
+      "price": 1950.6,
+      "macd": 1.261,
+      "signal": -1.415,
+      "histogram": 2.676,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "GRANULES",
+      "date": "2026-09-07",
+      "price": 867.3,
+      "macd": 1.182,
+      "signal": 0.026,
+      "histogram": 1.156,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "HOMEFIRST",
+      "date": "2026-09-02",
+      "price": 1196.7,
+      "macd": 0.577,
+      "signal": 0.373,
+      "histogram": 0.204,
+      "macd_cross_type": "Bullish cross above zero"
+    },
+    {
+      "symbol": "SARDAEN",
+      "date": "2026-09-08",
+      "price": 519.85,
+      "macd": 0.257,
+      "signal": -0.649,
+      "histogram": 0.906,
+      "macd_cross_type": "Bullish cross above zero"
+    }
+  ],
+  "bearish_crossover": [
+    {
+      "symbol": "PAGEIND",
+      "date": "2026-09-16",
+      "price": 34450.0,
+      "macd": -945.958,
+      "signal": -945.8,
+      "histogram": -0.158,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "FORCEMOT",
+      "date": "2026-09-16",
+      "price": 17385.0,
+      "macd": -170.977,
+      "signal": -167.469,
+      "histogram": -3.508,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "THERMAX",
+      "date": "2026-09-02",
+      "price": 3752.5,
+      "macd": -127.793,
+      "signal": -127.2,
+      "histogram": -0.593,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "date": "2026-09-15",
+      "price": 4890.0,
+      "macd": -105.656,
+      "signal": -97.024,
+      "histogram": -8.632,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "AIAENG",
+      "date": "2026-09-10",
+      "price": 4116.3,
+      "macd": -99.831,
+      "signal": -98.685,
+      "histogram": -1.146,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CERA",
+      "date": "2026-09-15",
+      "price": 5572.0,
+      "macd": -96.727,
+      "signal": -95.245,
+      "histogram": -1.482,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GILLETTE",
+      "date": "2026-09-16",
+      "price": 7275.5,
+      "macd": -76.882,
+      "signal": -75.936,
+      "histogram": -0.946,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "WAAREEENER",
+      "date": "2026-09-16",
+      "price": 2504.1,
+      "macd": -53.43,
+      "signal": -51.836,
+      "histogram": -1.594,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "BAYERCROP",
+      "date": "2026-09-15",
+      "price": 3941.1,
+      "macd": -50.818,
+      "signal": -50.794,
+      "histogram": -0.024,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SRF",
+      "date": "2026-09-07",
+      "price": 2522.0,
+      "macd": -31.186,
+      "signal": -30.831,
+      "histogram": -0.355,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SOBHA",
+      "date": "2026-09-11",
+      "price": 1216.8,
+      "macd": -31.02,
+      "signal": -30.51,
+      "histogram": -0.51,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TATAELXSI",
+      "date": "2026-09-01",
+      "price": 3609.0,
+      "macd": -28.001,
+      "signal": -27.358,
+      "histogram": -0.643,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "INDIAMART",
+      "date": "2026-09-08",
+      "price": 1684.5,
+      "macd": -25.883,
+      "signal": -23.816,
+      "histogram": -2.067,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "JSWHL",
+      "date": "2026-09-04",
+      "price": 11472.0,
+      "macd": -18.795,
+      "signal": -16.433,
+      "histogram": -2.362,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CEMPRO",
+      "date": "2026-09-15",
+      "price": 1207.1,
+      "macd": -18.554,
+      "signal": -17.027,
+      "histogram": -1.527,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "DRREDDY",
+      "date": "2026-09-07",
+      "price": 1151.0,
+      "macd": -15.932,
+      "signal": -15.77,
+      "histogram": -0.162,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CCL",
+      "date": "2026-09-15",
+      "price": 1060.9,
+      "macd": -13.844,
+      "signal": -12.835,
+      "histogram": -1.009,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TATACHEM",
+      "date": "2026-09-07",
+      "price": 613.35,
+      "macd": -13.283,
+      "signal": -12.857,
+      "histogram": -0.426,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "DOMS",
+      "date": "2026-09-09",
+      "price": 2190.8,
+      "macd": -13.133,
+      "signal": -13.01,
+      "histogram": -0.123,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "date": "2026-09-03",
+      "price": 2913.8,
+      "macd": -12.944,
+      "signal": -10.32,
+      "histogram": -2.624,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GALLANTT",
+      "date": "2026-09-11",
+      "price": 546.4,
+      "macd": -12.84,
+      "signal": -12.5,
+      "histogram": -0.34,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "date": "2026-09-02",
+      "price": 2510.8,
+      "macd": -11.9,
+      "signal": -9.725,
+      "histogram": -2.175,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TECHNOE",
+      "date": "2026-09-15",
+      "price": 950.6,
+      "macd": -11.877,
+      "signal": -10.904,
+      "histogram": -0.973,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TRITURBINE",
+      "date": "2026-09-15",
+      "price": 546.9,
+      "macd": -11.735,
+      "signal": -11.383,
+      "histogram": -0.352,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CIEINDIA",
+      "date": "2026-09-02",
+      "price": 385.0,
+      "macd": -10.892,
+      "signal": -10.719,
+      "histogram": -0.173,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "INTELLECT",
+      "date": "2026-09-16",
+      "price": 659.45,
+      "macd": -10.765,
+      "signal": -10.403,
+      "histogram": -0.362,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ASTERDM",
+      "date": "2026-09-15",
+      "price": 741.25,
+      "macd": -10.216,
+      "signal": -9.324,
+      "histogram": -0.892,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "FORTIS",
+      "date": "2026-09-10",
+      "price": 887.8,
+      "macd": -9.915,
+      "signal": -8.934,
+      "histogram": -0.981,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CANFINHOME",
+      "date": "2026-09-09",
+      "price": 786.9,
+      "macd": -9.82,
+      "signal": -9.651,
+      "histogram": -0.169,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "KPITTECH",
+      "date": "2026-09-03",
+      "price": 575.45,
+      "macd": -9.144,
+      "signal": -8.619,
+      "histogram": -0.525,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "MGL",
+      "date": "2026-09-15",
+      "price": 1071.7,
+      "macd": -8.491,
+      "signal": -7.804,
+      "histogram": -0.687,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "BIKAJI",
+      "date": "2026-09-02",
+      "price": 590.2,
+      "macd": -8.377,
+      "signal": -8.245,
+      "histogram": -0.132,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ELECON",
+      "date": "2026-09-16",
+      "price": 407.35,
+      "macd": -7.757,
+      "signal": -7.554,
+      "histogram": -0.203,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "AADHARHFC",
+      "date": "2026-09-11",
+      "price": 456.8,
+      "macd": -7.217,
+      "signal": -6.872,
+      "histogram": -0.345,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GUJENERGY",
+      "date": "2026-09-15",
+      "price": 243.56,
+      "macd": -7.11,
+      "signal": -6.828,
+      "histogram": -0.282,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "EIHOTEL",
+      "date": "2026-09-15",
+      "price": 283.8,
+      "macd": -6.622,
+      "signal": -6.588,
+      "histogram": -0.034,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "FACT",
+      "date": "2026-09-04",
+      "price": 801.4,
+      "macd": -6.312,
+      "signal": -6.013,
+      "histogram": -0.299,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "NLCINDIA",
+      "date": "2026-09-16",
+      "price": 255.35,
+      "macd": -6.299,
+      "signal": -5.858,
+      "histogram": -0.441,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ADANIENT",
+      "date": "2026-09-15",
+      "price": 2932.0,
+      "macd": -6.274,
+      "signal": -4.549,
+      "histogram": -1.725,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "NAVA",
+      "date": "2026-09-15",
+      "price": 536.95,
+      "macd": -6.224,
+      "signal": -5.113,
+      "histogram": -1.111,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "VTL",
+      "date": "2026-09-09",
+      "price": 583.0,
+      "macd": -5.881,
+      "signal": -5.783,
+      "histogram": -0.098,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "AXISBANK",
+      "date": "2026-09-15",
+      "price": 1224.5,
+      "macd": -5.672,
+      "signal": -5.409,
+      "histogram": -0.263,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "IRCON",
+      "date": "2026-09-15",
+      "price": 109.42,
+      "macd": -5.177,
+      "signal": -5.046,
+      "histogram": -0.131,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "DELHIVERY",
+      "date": "2026-09-09",
+      "price": 447.7,
+      "macd": -4.953,
+      "signal": -4.7,
+      "histogram": -0.253,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "UPL",
+      "date": "2026-09-15",
+      "price": 558.1,
+      "macd": -4.864,
+      "signal": -4.816,
+      "histogram": -0.048,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SIGNATURE",
+      "date": "2026-09-10",
+      "price": 772.35,
+      "macd": -4.842,
+      "signal": -4.75,
+      "histogram": -0.092,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "RAILTEL",
+      "date": "2026-09-02",
+      "price": 271.55,
+      "macd": -4.837,
+      "signal": -4.566,
+      "histogram": -0.271,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GMDCLTD",
+      "date": "2026-09-16",
+      "price": 543.35,
+      "macd": -4.771,
+      "signal": -3.905,
+      "histogram": -0.866,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CESC",
+      "date": "2026-09-15",
+      "price": 141.7,
+      "macd": -4.589,
+      "signal": -4.436,
+      "histogram": -0.153,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "HDBFS",
+      "date": "2026-09-11",
+      "price": 669.2,
+      "macd": -4.543,
+      "signal": -3.995,
+      "histogram": -0.548,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "JWL",
+      "date": "2026-09-15",
+      "price": 231.17,
+      "macd": -4.507,
+      "signal": -4.006,
+      "histogram": -0.501,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SYNGENE",
+      "date": "2026-09-07",
+      "price": 389.3,
+      "macd": -3.862,
+      "signal": -3.297,
+      "histogram": -0.565,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "STARHEALTH",
+      "date": "2026-09-11",
+      "price": 562.7,
+      "macd": -3.617,
+      "signal": -3.461,
+      "histogram": -0.156,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "APTUS",
+      "date": "2026-09-15",
+      "price": 244.83,
+      "macd": -3.572,
+      "signal": -3.468,
+      "histogram": -0.104,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "date": "2026-09-15",
+      "price": 485.5,
+      "macd": -3.221,
+      "signal": -3.207,
+      "histogram": -0.014,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ABDL",
+      "date": "2026-09-07",
+      "price": 600.0,
+      "macd": -3.192,
+      "signal": -3.037,
+      "histogram": -0.155,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "date": "2026-09-03",
+      "price": 239.0,
+      "macd": -3.189,
+      "signal": -3.154,
+      "histogram": -0.035,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "BBTC",
+      "date": "2026-09-09",
+      "price": 1448.8,
+      "macd": -2.78,
+      "signal": -0.49,
+      "histogram": -2.29,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "date": "2026-09-15",
+      "price": 93.0,
+      "macd": -2.482,
+      "signal": -2.429,
+      "histogram": -0.053,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TARIL",
+      "date": "2026-09-10",
+      "price": 289.95,
+      "macd": -2.18,
+      "signal": -1.639,
+      "histogram": -0.541,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "FINPIPE",
+      "date": "2026-09-11",
+      "price": 153.45,
+      "macd": -2.118,
+      "signal": -1.929,
+      "histogram": -0.189,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ABFRL",
+      "date": "2026-09-11",
+      "price": 50.44,
+      "macd": -1.754,
+      "signal": -1.74,
+      "histogram": -0.014,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "AFCONS",
+      "date": "2026-09-10",
+      "price": 260.85,
+      "macd": -1.518,
+      "signal": -0.148,
+      "histogram": -1.37,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "LICI",
+      "date": "2026-09-08",
+      "price": 407.5,
+      "macd": -1.488,
+      "signal": -1.226,
+      "histogram": -0.262,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SUZLON",
+      "date": "2026-09-10",
+      "price": 44.12,
+      "macd": -1.447,
+      "signal": -1.431,
+      "histogram": -0.016,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "LEMONTREE",
+      "date": "2026-09-11",
+      "price": 104.78,
+      "macd": -1.387,
+      "signal": -1.364,
+      "histogram": -0.023,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "date": "2026-09-16",
+      "price": 202.9,
+      "macd": -1.314,
+      "signal": -1.221,
+      "histogram": -0.093,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "NUVOCO",
+      "date": "2026-09-15",
+      "price": 313.75,
+      "macd": -1.229,
+      "signal": -0.638,
+      "histogram": -0.591,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "date": "2026-09-16",
+      "price": 183.19,
+      "macd": -1.055,
+      "signal": -1.029,
+      "histogram": -0.026,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GPIL",
+      "date": "2026-09-16",
+      "price": 236.49,
+      "macd": -1.013,
+      "signal": -0.76,
+      "histogram": -0.253,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "TTML",
+      "date": "2026-09-09",
+      "price": 36.13,
+      "macd": -0.65,
+      "signal": -0.59,
+      "histogram": -0.06,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "CGPOWER",
+      "date": "2026-09-16",
+      "price": 854.4,
+      "macd": -0.557,
+      "signal": 1.464,
+      "histogram": -2.021,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "RPOWER",
+      "date": "2026-09-15",
+      "price": 21.03,
+      "macd": -0.544,
+      "signal": -0.509,
+      "histogram": -0.035,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "NHPC",
+      "date": "2026-09-17",
+      "price": 75.29,
+      "macd": -0.519,
+      "signal": -0.514,
+      "histogram": -0.005,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "RELIANCE",
+      "date": "2026-09-07",
+      "price": 1294.9,
+      "macd": -0.414,
+      "signal": 0.023,
+      "histogram": -0.437,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "OLAELEC",
+      "date": "2026-09-16",
+      "price": 37.24,
+      "macd": -0.31,
+      "signal": -0.279,
+      "histogram": -0.031,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "VEDL",
+      "date": "2026-09-08",
+      "price": 272.5,
+      "macd": -0.294,
+      "signal": -0.256,
+      "histogram": -0.038,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "IOB",
+      "date": "2026-09-16",
+      "price": 32.09,
+      "macd": -0.278,
+      "signal": -0.242,
+      "histogram": -0.036,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "MMTC",
+      "date": "2026-09-09",
+      "price": 62.76,
+      "macd": -0.276,
+      "signal": -0.264,
+      "histogram": -0.012,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "GSFC",
+      "date": "2026-09-11",
+      "price": 155.95,
+      "macd": -0.228,
+      "signal": -0.043,
+      "histogram": -0.185,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "USHAMART",
+      "date": "2026-09-11",
+      "price": 494.5,
+      "macd": -0.161,
+      "signal": 0.098,
+      "histogram": -0.259,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "SCI",
+      "date": "2026-09-08",
+      "price": 288.75,
+      "macd": -0.056,
+      "signal": -0.016,
+      "histogram": -0.04,
+      "macd_cross_type": "Bearish cross below zero"
+    },
+    {
+      "symbol": "NMDC",
+      "date": "2026-09-09",
+      "price": 84.6,
+      "macd": -0.053,
+      "signal": -0.016,
+      "histogram": -0.037,
+      "macd_cross_type": "Bearish cross below zero"
+    }
+  ],
+  "bullish_divergence": [
+    {
+      "symbol": "BSE",
+      "date": "2026-09-18",
+      "price": 3253.0,
+      "macd": -49.3037,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "COLPAL",
+      "date": "2026-09-18",
+      "price": 1875.0,
+      "macd": -29.3156,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "date": "2026-09-18",
+      "price": 5100.0,
+      "macd": -86.377,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "DABUR",
+      "date": "2026-09-18",
+      "price": 388.75,
+      "macd": -5.7895,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "DRREDDY",
+      "date": "2026-09-18",
+      "price": 1185.3,
+      "macd": -6.5085,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "date": "2026-09-18",
+      "price": 97.6,
+      "macd": -1.974,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "GODREJCP",
+      "date": "2026-09-18",
+      "price": 881.0,
+      "macd": -28.6232,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "ITC",
+      "date": "2026-09-18",
+      "price": 264.6,
+      "macd": -3.3329,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "LUPIN",
+      "date": "2026-09-18",
+      "price": 2075.0,
+      "macd": -55.6743,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "NBCC",
+      "date": "2026-09-18",
+      "price": 83.9,
+      "macd": -2.5195,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "NHPC",
+      "date": "2026-09-18",
+      "price": 76.21,
+      "macd": -0.3883,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "NTPC",
+      "date": "2026-09-18",
+      "price": 327.1,
+      "macd": -3.1957,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "ONGC",
+      "date": "2026-09-18",
+      "price": 232.75,
+      "macd": -1.4769,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "PFC",
+      "date": "2026-09-18",
+      "price": 345.45,
+      "macd": -9.8117,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "POWERGRID",
+      "date": "2026-09-18",
+      "price": 266.5,
+      "macd": -1.982,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "RECLTD",
+      "date": "2026-09-18",
+      "price": 311.05,
+      "macd": -7.9662,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "SRF",
+      "date": "2026-09-18",
+      "price": 2567.8,
+      "macd": -30.6823,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "date": "2026-09-18",
+      "price": 186.08,
+      "macd": -0.4672,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "UPL",
+      "date": "2026-09-18",
+      "price": 561.4,
+      "macd": -5.8805,
+      "type": "Bullish Divergence"
+    },
+    {
+      "symbol": "VBL",
+      "date": "2026-09-18",
+      "price": 425.0,
+      "macd": -6.0034,
+      "type": "Bullish Divergence"
+    }
+  ],
+  "bearish_divergence": [
+    {
+      "symbol": "APLAPOLLO",
+      "date": "2026-09-18",
+      "price": 2193.0,
+      "macd": 28.1583,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "ATHERENERG",
+      "date": "2026-09-18",
+      "price": 1615.0,
+      "macd": 38.3979,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "date": "2026-09-18",
+      "price": 1695.2,
+      "macd": 16.3982,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "BHEL",
+      "date": "2026-09-18",
+      "price": 432.75,
+      "macd": 1.8605,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "DALBHARAT",
+      "date": "2026-08-25",
+      "price": 1811.5,
+      "macd": 16.1069,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "date": "2026-09-18",
+      "price": 9369.5,
+      "macd": 245.9759,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "ETERNAL",
+      "date": "2026-09-18",
+      "price": 328.4,
+      "macd": 2.263,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "GLENMARK",
+      "date": "2026-09-18",
+      "price": 2410.9,
+      "macd": 19.112,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "IDEA",
+      "date": "2026-09-18",
+      "price": 14.18,
+      "macd": 0.1194,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "date": "2026-09-18",
+      "price": 86.39,
+      "macd": 0.4288,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "date": "2026-09-18",
+      "price": 1974.0,
+      "macd": 43.0385,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "date": "2026-09-18",
+      "price": 1010.0,
+      "macd": 11.3142,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "NUVAMA",
+      "date": "2026-07-28",
+      "price": 1799.0,
+      "macd": 64.901,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "OFSS",
+      "date": "2026-09-18",
+      "price": 11665.0,
+      "macd": 0.4458,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "OIL",
+      "date": "2026-09-18",
+      "price": 477.05,
+      "macd": 4.5202,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "PAYTM",
+      "date": "2026-09-18",
+      "price": 1819.0,
+      "macd": 66.8104,
+      "type": "Bearish Divergence"
+    },
+    {
+      "symbol": "PNB",
+      "date": "2026-09-18",
+      "price": 117.12,
+      "macd": 0.5852,
+      "type": "Bearish Divergence"
+    }
+  ],
+  "summary": {
+    "bullish_crossovers": 22,
+    "bearish_crossovers": 83,
+    "bullish_divergences": 20,
+    "bearish_divergences": 17
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-09-18 22:58:54",
+  "daily": {
+    "tf_bull": [],
+    "tf_bear": [],
+    "tc_bull": [],
+    "tc_bear": []
+  },
+  "weekly": {
+    "tf_bull": [],
+    "tf_bear": [],
+    "tc_bull": [
+      {
+        "symbol": "EICHERMOT",
+        "rdx": false,
+        "gsr": 0.8904,
+        "crossover_type": "bull",
+        "crossover_date": "2026-09-16",
+        "dist_flip_pct": null,
+        "dist_put_pct": 0.73,
+        "dist_call_pct": 1.92,
+        "rrr": null,
+        "convex": false,
+        "explanation": "Above Flip \u2192 Normal Gamma. Bull \u2014: 1.9% to Call Wall vs ? to Flip (stop). n/a. [Inside Bar]",
+        "gamma_stage": "Normal Gamma",
+        "pattern": "Inside Bar",
+        "pattern_date": "2026-09-07"
+      }
+    ],
+    "tc_bear": []
+  }
+}

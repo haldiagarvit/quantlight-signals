@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-26",
+  "fut_idx_long": 100447,
+  "fut_idx_short": 74197,
+  "fut_ls_ratio": 1.35,
+  "fut_long_pct": 57.5,
+  "opt_ce_long": 172329,
+  "opt_ce_short": 277789,
+  "opt_pe_long": 127610,
+  "opt_pe_short": 374652,
+  "opt_ce_net": -105460,
+  "opt_pe_net": -247042,
+  "bias": "BULL",
+  "opt_posture": "Bull spread \u2014 net CE+PE seller",
+  "source": "synthetic (NSE unreachable)",
+  "generated_at": "2026-08-26 14:37:38"
+}
