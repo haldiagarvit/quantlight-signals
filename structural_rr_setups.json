@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 23:11",
+  "generated_at": "2026-09-22 23:41",
   "total_setups": 6,
   "setups": [
     {
@@ -79,7 +79,7 @@
       "spot_target": 1420,
       "spot_rr": 5.11,
       "option_type": "CE",
-      "option_strike": 1400,
+      "option_strike": 1380,
       "option_rr": -0.92,
       "score": 5.11,
       "regime": "+1",
