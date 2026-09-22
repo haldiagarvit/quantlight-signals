@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-09-22 10:35",
+  "generated_at": "2026-09-22 10:58",
   "total_stocks": 6,
   "strategies": [
     {
       "symbol": "TMPV",
-      "rank": 1,
+      "rank": 4,
+      "status": "actionable",
       "setup_type": "PE Setup",
       "expiry": "Oct26",
       "dte": 37,
@@ -162,7 +163,8 @@
     },
     {
       "symbol": "BANKBARODA",
-      "rank": 1,
+      "rank": 5,
+      "status": "watchlist",
       "setup_type": "PE Squeeze",
       "expiry": "Oct26",
       "dte": 37,
@@ -312,7 +314,8 @@
     },
     {
       "symbol": "IDEA",
-      "rank": 2,
+      "rank": 6,
+      "status": "watchlist",
       "setup_type": "PE Squeeze",
       "expiry": "Oct26",
       "dte": 37,
@@ -431,6 +434,7 @@
     {
       "symbol": "ASTRAL",
       "rank": 1,
+      "status": "watchlist",
       "setup_type": "CE Squeeze",
       "expiry": "Oct26",
       "dte": 37,
@@ -501,6 +505,7 @@
     {
       "symbol": "NHPC",
       "rank": 2,
+      "status": "watchlist",
       "setup_type": "CE Squeeze",
       "expiry": "Oct26",
       "dte": 37,
@@ -579,6 +584,7 @@
     {
       "symbol": "KALYANKJIL",
       "rank": 3,
+      "status": "watchlist",
       "setup_type": "CE Squeeze",
       "expiry": "Oct26",
       "dte": 37,
