@@ -2,7 +2,7 @@
 
 Auto-generated daily by the QuantLight EOD scanner.
 
-**Last updated:** 30 Sep 2026 22:19 IST
+**Last updated:** 01 Oct 2026 22:24 IST
 
 ---
 
