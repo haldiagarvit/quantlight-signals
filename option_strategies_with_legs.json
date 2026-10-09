@@ -1,15 +1,136 @@
 {
-  "generated_at": "2026-10-08 22:26",
+  "generated_at": "2026-10-09 23:10",
   "total_stocks": 4,
   "strategies": [
     {
-      "symbol": "POLYCAB",
+      "symbol": "CANBK",
       "rank": 1,
       "status": "watchlist",
-      "setup_type": "PE Setup",
+      "setup_type": "PE Squeeze",
       "expiry": "Oct26",
-      "dte": 19,
-      "spot_entry": 8151.0,
+      "dte": 18,
+      "spot_entry": 119.59,
+      "strategy_name": "Put Calendar (~est)",
+      "strategy_short": "Calendar",
+      "lot_size": 6750,
+      "legs": [
+        {
+          "action": "SELL",
+          "qty": 1,
+          "opt_type": "PUT",
+          "strike": 120,
+          "premium": 0.54,
+          "label": "120 PE (near 18d)"
+        },
+        {
+          "action": "BUY",
+          "qty": 1,
+          "opt_type": "PUT",
+          "strike": 120,
+          "premium": 0.59,
+          "label": "120 PE (far ~48d)"
+        }
+      ],
+      "net_debit_per_share": 0.05,
+      "net_credit_per_share": 0,
+      "net_debit_per_lot": 337.5,
+      "net_credit_per_lot": 0,
+      "max_profit_per_lot": 3551.46,
+      "max_loss_per_lot": 327.48,
+      "rr": 10.84,
+      "breakeven": 120,
+      "prob_of_profit": 0.45,
+      "all_strategies": [
+        {
+          "name": "Put Calendar (~est)",
+          "rr": 10.84,
+          "max_profit_lot": 3551.46,
+          "max_loss_lot": 327.48,
+          "net_debit": 0.05,
+          "net_credit": 0,
+          "breakeven": 120,
+          "prob": 0.45
+        },
+        {
+          "name": "Seagull",
+          "rr": 8.21,
+          "max_profit_lot": 30085.7,
+          "max_loss_lot": 3664.3,
+          "net_debit": 0.54,
+          "net_credit": 0,
+          "breakeven": 119.46,
+          "prob": 0.351
+        },
+        {
+          "name": "Bear Put Spread (tight)",
+          "rr": 8.21,
+          "max_profit_lot": 30085.7,
+          "max_loss_lot": 3664.3,
+          "net_debit": 0.54,
+          "net_credit": 0,
+          "breakeven": 119.46,
+          "prob": 0.351
+        },
+        {
+          "name": "Bear Put Spread (at target)",
+          "rr": 8.21,
+          "max_profit_lot": 30085.7,
+          "max_loss_lot": 3664.3,
+          "net_debit": 0.54,
+          "net_credit": 0,
+          "breakeven": 119.46,
+          "prob": 0.351
+        },
+        {
+          "name": "Long Put",
+          "rr": 8.21,
+          "max_profit_lot": 30085.56,
+          "max_loss_lot": 3664.44,
+          "net_debit": 0.54,
+          "net_credit": 0,
+          "breakeven": 119.46,
+          "prob": 0.351
+        },
+        {
+          "name": "Put Diagonal (~est)",
+          "rr": 6.38,
+          "max_profit_lot": 25459.15,
+          "max_loss_lot": 3991.78,
+          "net_debit": 0.59,
+          "net_credit": 0,
+          "breakeven": 119.41,
+          "prob": 0.337
+        },
+        {
+          "name": "Bear Call Spread (credit)",
+          "rr": 0.12,
+          "max_profit_lot": 3488.98,
+          "max_loss_lot": 30261.02,
+          "net_debit": 0,
+          "net_credit": 0.52,
+          "breakeven": 120.52,
+          "prob": 0.66
+        },
+        {
+          "name": "Twisted Sister",
+          "rr": 0.0,
+          "max_profit_lot": 0.38,
+          "max_loss_lot": 67499.62,
+          "net_debit": 0,
+          "net_credit": 0.0,
+          "breakeven": 115.0,
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "rank": 2,
+      "status": "watchlist",
+      "setup_type": "PE Squeeze",
+      "expiry": "Oct26",
+      "dte": 18,
+      "spot_entry": 4830.0,
       "strategy_name": "Put Calendar (~est)",
       "strategy_short": "Calendar",
       "lot_size": 100,
@@ -18,290 +139,139 @@
           "action": "SELL",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 8200,
-          "premium": 48.76,
-          "label": "8200 PE (near 19d)"
+          "strike": 4850,
+          "premium": 23.72,
+          "label": "4850 PE (near 18d)"
         },
         {
           "action": "BUY",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 8200,
-          "premium": 49.03,
-          "label": "8200 PE (far ~49d)"
+          "strike": 4850,
+          "premium": 25.25,
+          "label": "4850 PE (far ~48d)"
         }
       ],
-      "net_debit_per_share": 0.27,
+      "net_debit_per_share": 1.53,
       "net_credit_per_share": 0,
-      "net_debit_per_lot": 27.0,
+      "net_debit_per_lot": 153.0,
       "net_credit_per_lot": 0,
-      "max_profit_per_lot": 4906.33,
-      "max_loss_per_lot": 26.68,
-      "rr": 183.92,
-      "breakeven": 8200,
+      "max_profit_per_lot": 2325.12,
+      "max_loss_per_lot": 153.03,
+      "rr": 15.19,
+      "breakeven": 4850,
       "prob_of_profit": 0.45,
       "all_strategies": [
         {
           "name": "Put Calendar (~est)",
-          "rr": 183.92,
-          "max_profit_lot": 4906.33,
-          "max_loss_lot": 26.68,
-          "net_debit": 0.27,
+          "rr": 15.19,
+          "max_profit_lot": 2325.12,
+          "max_loss_lot": 153.03,
+          "net_debit": 1.53,
           "net_credit": 0,
-          "breakeven": 8200,
+          "breakeven": 4850,
           "prob": 0.45
         },
         {
-          "name": "Put Butterfly",
-          "rr": 7.2,
-          "max_profit_lot": 35123.82,
-          "max_loss_lot": 4876.18,
-          "net_debit": 48.76,
+          "name": "Seagull",
+          "rr": 9.54,
+          "max_profit_lot": 22628.13,
+          "max_loss_lot": 2371.87,
+          "net_debit": 23.72,
           "net_credit": 0,
-          "breakeven": 8151.24,
-          "prob": 0.387
+          "breakeven": 4826.28,
+          "prob": 0.362
         },
         {
-          "name": "Seagull",
-          "rr": 7.2,
-          "max_profit_lot": 35123.8,
-          "max_loss_lot": 4876.2,
-          "net_debit": 48.76,
+          "name": "Put Butterfly",
+          "rr": 9.54,
+          "max_profit_lot": 22628.13,
+          "max_loss_lot": 2371.87,
+          "net_debit": 23.72,
           "net_credit": 0,
-          "breakeven": 8151.24,
-          "prob": 0.387
+          "breakeven": 4826.28,
+          "prob": 0.362
         },
         {
           "name": "Bear Put Spread (at target)",
-          "rr": 7.2,
-          "max_profit_lot": 35123.78,
-          "max_loss_lot": 4876.22,
-          "net_debit": 48.76,
+          "rr": 9.54,
+          "max_profit_lot": 22628.13,
+          "max_loss_lot": 2371.87,
+          "net_debit": 23.72,
           "net_credit": 0,
-          "breakeven": 8151.24,
-          "prob": 0.387
+          "breakeven": 4826.28,
+          "prob": 0.362
         },
         {
           "name": "Long Put",
-          "rr": 7.2,
-          "max_profit_lot": 35123.75,
-          "max_loss_lot": 4876.25,
-          "net_debit": 48.76,
+          "rr": 9.54,
+          "max_profit_lot": 22628.13,
+          "max_loss_lot": 2371.87,
+          "net_debit": 23.72,
           "net_credit": 0,
-          "breakeven": 8151.24,
-          "prob": 0.387
+          "breakeven": 4826.28,
+          "prob": 0.362
         },
         {
           "name": "Put Diagonal (~est)",
-          "rr": 6.27,
-          "max_profit_lot": 30730.85,
-          "max_loss_lot": 4902.89,
-          "net_debit": 49.03,
+          "rr": 7.88,
+          "max_profit_lot": 19891.71,
+          "max_loss_lot": 2524.9,
+          "net_debit": 25.25,
           "net_credit": 0,
-          "breakeven": 8150.97,
-          "prob": 0.385
-        },
-        {
-          "name": "Bear Put Spread (tight)",
-          "rr": 5.16,
-          "max_profit_lot": 25126.8,
-          "max_loss_lot": 4873.2,
-          "net_debit": 48.73,
-          "net_credit": 0,
-          "breakeven": 8151.27,
-          "prob": 0.387
+          "breakeven": 4824.75,
+          "prob": 0.352
         },
         {
           "name": "Put Ratio 1:2",
-          "rr": 3.26,
-          "max_profit_lot": 15308.94,
-          "max_loss_lot": 4691.06,
-          "net_debit": 46.91,
+          "rr": 5.35,
+          "max_profit_lot": 12637.76,
+          "max_loss_lot": 2362.24,
+          "net_debit": 23.62,
           "net_credit": 0,
-          "breakeven": 8153.09,
-          "prob": 0.394
+          "breakeven": 4826.38,
+          "prob": 0.363
+        },
+        {
+          "name": "Bear Put Spread (tight)",
+          "rr": 5.34,
+          "max_profit_lot": 12632.94,
+          "max_loss_lot": 2367.06,
+          "net_debit": 23.67,
+          "net_credit": 0,
+          "breakeven": 4826.33,
+          "prob": 0.363
         },
         {
           "name": "Bear Call Spread (credit)",
-          "rr": 0.16,
-          "max_profit_lot": 2715.52,
-          "max_loss_lot": 17284.48,
+          "rr": 0.42,
+          "max_profit_lot": 1480.83,
+          "max_loss_lot": 3519.17,
           "net_debit": 0,
-          "net_credit": 27.16,
-          "breakeven": 8227.16,
-          "prob": 0.7
-        },
-        {
-          "name": "Put Backspread",
-          "rr": 0.31,
-          "max_profit_lot": 4691.06,
-          "max_loss_lot": 15308.94,
-          "net_debit": 0,
-          "net_credit": 46.91,
-          "breakeven": 7846.91,
-          "prob": 0.0
+          "net_credit": 14.81,
+          "breakeven": 4864.81,
+          "prob": 0.642
         },
         {
           "name": "Twisted Sister",
           "rr": 0.0,
-          "max_profit_lot": 0.92,
-          "max_loss_lot": 19999.08,
+          "max_profit_lot": 3.79,
+          "max_loss_lot": 9996.21,
           "net_debit": 0,
-          "net_credit": 0.01,
-          "breakeven": 7799.99,
+          "net_credit": 0.04,
+          "breakeven": 4599.96,
           "prob": 0.0
         }
       ]
     },
     {
-      "symbol": "RECLTD",
-      "rank": 1,
+      "symbol": "IEX",
+      "rank": 3,
       "status": "watchlist",
       "setup_type": "PE Squeeze",
       "expiry": "Oct26",
-      "dte": 19,
-      "spot_entry": 295.0,
-      "strategy_name": "Put Diagonal (~est)",
-      "strategy_short": "Diagonal",
-      "lot_size": 100,
-      "legs": [
-        {
-          "action": "BUY",
-          "qty": 1,
-          "opt_type": "PUT",
-          "strike": 300,
-          "premium": 3.57,
-          "label": "300 PE (far ~49d)"
-        },
-        {
-          "action": "SELL",
-          "qty": 1,
-          "opt_type": "PUT",
-          "strike": 280,
-          "premium": 0.0,
-          "label": "280 PE (near 19d)"
-        }
-      ],
-      "net_debit_per_share": 3.57,
-      "net_credit_per_share": 0,
-      "net_debit_per_lot": 357.0,
-      "net_credit_per_lot": 0,
-      "max_profit_per_lot": 1483.28,
-      "max_loss_per_lot": 356.88,
-      "rr": 4.16,
-      "breakeven": 296.43,
-      "prob_of_profit": 0.553,
-      "all_strategies": [
-        {
-          "name": "Put Diagonal (~est)",
-          "rr": 4.16,
-          "max_profit_lot": 1483.28,
-          "max_loss_lot": 356.88,
-          "net_debit": 3.57,
-          "net_credit": 0,
-          "breakeven": 296.43,
-          "prob": 0.553
-        },
-        {
-          "name": "Seagull",
-          "rr": 3.78,
-          "max_profit_lot": 1581.4,
-          "max_loss_lot": 418.6,
-          "net_debit": 4.19,
-          "net_credit": 0,
-          "breakeven": 295.81,
-          "prob": 0.48
-        },
-        {
-          "name": "Put Butterfly",
-          "rr": 3.78,
-          "max_profit_lot": 1581.4,
-          "max_loss_lot": 418.6,
-          "net_debit": 4.19,
-          "net_credit": 0,
-          "breakeven": 295.81,
-          "prob": 0.48
-        },
-        {
-          "name": "Bear Put Spread (at target)",
-          "rr": 3.78,
-          "max_profit_lot": 1581.4,
-          "max_loss_lot": 418.6,
-          "net_debit": 4.19,
-          "net_credit": 0,
-          "breakeven": 295.81,
-          "prob": 0.48
-        },
-        {
-          "name": "Long Put",
-          "rr": 3.78,
-          "max_profit_lot": 1581.4,
-          "max_loss_lot": 418.6,
-          "net_debit": 4.19,
-          "net_credit": 0,
-          "breakeven": 295.81,
-          "prob": 0.48
-        },
-        {
-          "name": "Put Ratio 1:2",
-          "rr": 1.45,
-          "max_profit_lot": 591.03,
-          "max_loss_lot": 408.97,
-          "net_debit": 4.09,
-          "net_credit": 0,
-          "breakeven": 295.91,
-          "prob": 0.492
-        },
-        {
-          "name": "Bear Put Spread (tight)",
-          "rr": 1.42,
-          "max_profit_lot": 586.22,
-          "max_loss_lot": 413.78,
-          "net_debit": 4.14,
-          "net_credit": 0,
-          "breakeven": 295.86,
-          "prob": 0.486
-        },
-        {
-          "name": "Bear Call Spread (credit)",
-          "rr": 0.02,
-          "max_profit_lot": 19.93,
-          "max_loss_lot": 980.07,
-          "net_debit": 0,
-          "net_credit": 0.2,
-          "breakeven": 300.2,
-          "prob": 0.893
-        },
-        {
-          "name": "Put Backspread",
-          "rr": 0.69,
-          "max_profit_lot": 408.97,
-          "max_loss_lot": 591.03,
-          "net_debit": 0,
-          "net_credit": 4.09,
-          "breakeven": 284.09,
-          "prob": 0.0
-        },
-        {
-          "name": "Twisted Sister",
-          "rr": 0.0,
-          "max_profit_lot": 0.0,
-          "max_loss_lot": 2000.0,
-          "net_debit": 0,
-          "net_credit": 0.0,
-          "breakeven": 280.0,
-          "prob": 0.0
-        }
-      ]
-    },
-    {
-      "symbol": "POLYCAB",
-      "rank": 1,
-      "status": "watchlist",
-      "setup_type": "PE Setup",
-      "expiry": "Nov26",
-      "dte": 46,
-      "spot_entry": 8151.0,
+      "dte": 18,
+      "spot_entry": 104.78,
       "strategy_name": "Seagull",
       "strategy_short": "Seagull",
       "lot_size": 100,
@@ -310,277 +280,255 @@
           "action": "BUY",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 8200,
-          "premium": 49.15,
-          "label": "8200 PE"
+          "strike": 105,
+          "premium": 0.41,
+          "label": "105 PE"
         },
         {
           "action": "SELL",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 7800,
-          "premium": 0.07,
-          "label": "7800 PE"
+          "strike": 100,
+          "premium": 0.0,
+          "label": "100 PE"
         },
         {
           "action": "SELL",
           "qty": 1,
           "opt_type": "CALL",
-          "strike": 8600,
-          "premium": 0.25,
-          "label": "8600 CE"
+          "strike": 115,
+          "premium": 0.0,
+          "label": "115 CE"
         }
       ],
-      "net_debit_per_share": 48.84,
+      "net_debit_per_share": 0.41,
       "net_credit_per_share": 0,
-      "net_debit_per_lot": 4884.0,
+      "net_debit_per_lot": 41.0,
       "net_credit_per_lot": 0,
-      "max_profit_per_lot": 35116.47,
-      "max_loss_per_lot": 4883.53,
-      "rr": 7.19,
-      "breakeven": 8151.16,
-      "prob_of_profit": 0.326,
+      "max_profit_per_lot": 459.18,
+      "max_loss_per_lot": 40.82,
+      "rr": 11.25,
+      "breakeven": 104.59,
+      "prob_of_profit": 0.328,
       "all_strategies": [
         {
           "name": "Seagull",
-          "rr": 7.19,
-          "max_profit_lot": 35116.47,
-          "max_loss_lot": 4883.53,
-          "net_debit": 48.84,
+          "rr": 11.25,
+          "max_profit_lot": 459.18,
+          "max_loss_lot": 40.82,
+          "net_debit": 0.41,
           "net_credit": 0,
-          "breakeven": 8151.16,
-          "prob": 0.326
-        },
-        {
-          "name": "Put Butterfly",
-          "rr": 7.16,
-          "max_profit_lot": 35098.03,
-          "max_loss_lot": 4901.97,
-          "net_debit": 49.02,
-          "net_credit": 0,
-          "breakeven": 8150.98,
-          "prob": 0.325
-        },
-        {
-          "name": "Bear Put Spread (at target)",
-          "rr": 7.15,
-          "max_profit_lot": 35091.83,
-          "max_loss_lot": 4908.17,
-          "net_debit": 49.08,
-          "net_credit": 0,
-          "breakeven": 8150.92,
-          "prob": 0.325
-        },
-        {
-          "name": "Long Put",
-          "rr": 7.14,
-          "max_profit_lot": 35085.22,
-          "max_loss_lot": 4914.78,
-          "net_debit": 49.15,
-          "net_credit": 0,
-          "breakeven": 8150.85,
-          "prob": 0.325
-        },
-        {
-          "name": "Put Diagonal (~est)",
-          "rr": 6.54,
-          "max_profit_lot": 30910.91,
-          "max_loss_lot": 4722.83,
-          "net_debit": 47.23,
-          "net_credit": 0,
-          "breakeven": 8152.77,
-          "prob": 0.33
+          "breakeven": 104.59,
+          "prob": 0.328
         },
         {
           "name": "Bear Put Spread (tight)",
-          "rr": 5.19,
-          "max_profit_lot": 25150.02,
-          "max_loss_lot": 4849.98,
-          "net_debit": 48.5,
+          "rr": 11.25,
+          "max_profit_lot": 459.18,
+          "max_loss_lot": 40.82,
+          "net_debit": 0.41,
           "net_credit": 0,
-          "breakeven": 8151.5,
-          "prob": 0.327
+          "breakeven": 104.59,
+          "prob": 0.328
         },
         {
-          "name": "Put Ratio 1:2",
-          "rr": 3.87,
-          "max_profit_lot": 15893.78,
-          "max_loss_lot": 4106.22,
-          "net_debit": 41.06,
+          "name": "Bear Put Spread (at target)",
+          "rr": 11.25,
+          "max_profit_lot": 459.18,
+          "max_loss_lot": 40.82,
+          "net_debit": 0.41,
           "net_credit": 0,
-          "breakeven": 8158.94,
-          "prob": 0.345
+          "breakeven": 104.59,
+          "prob": 0.328
+        },
+        {
+          "name": "Long Put",
+          "rr": 11.25,
+          "max_profit_lot": 459.18,
+          "max_loss_lot": 40.82,
+          "net_debit": 0.41,
+          "net_credit": 0,
+          "breakeven": 104.59,
+          "prob": 0.328
+        },
+        {
+          "name": "Put Calendar (~est)",
+          "rr": 6.68,
+          "max_profit_lot": 38.6,
+          "max_loss_lot": 5.78,
+          "net_debit": 0.06,
+          "net_credit": 0,
+          "breakeven": 105,
+          "prob": 0.45
+        },
+        {
+          "name": "Put Diagonal (~est)",
+          "rr": 8.53,
+          "max_profit_lot": 397.51,
+          "max_loss_lot": 46.59,
+          "net_debit": 0.47,
+          "net_credit": 0,
+          "breakeven": 104.53,
+          "prob": 0.31
         },
         {
           "name": "Bear Call Spread (credit)",
-          "rr": 0.42,
-          "max_profit_lot": 5939.21,
-          "max_loss_lot": 14060.79,
+          "rr": 0.12,
+          "max_profit_lot": 52.42,
+          "max_loss_lot": 447.58,
           "net_debit": 0,
-          "net_credit": 59.39,
-          "breakeven": 8259.39,
-          "prob": 0.615
-        },
-        {
-          "name": "Put Backspread",
-          "rr": 0.26,
-          "max_profit_lot": 4106.22,
-          "max_loss_lot": 15893.78,
-          "net_debit": 0,
-          "net_credit": 41.06,
-          "breakeven": 7841.06,
-          "prob": 0.004
+          "net_credit": 0.52,
+          "breakeven": 105.52,
+          "prob": 0.638
         },
         {
           "name": "Twisted Sister",
-          "rr": 0.01,
-          "max_profit_lot": 169.05,
-          "max_loss_lot": 19830.95,
+          "rr": 0.0,
+          "max_profit_lot": 0.0,
+          "max_loss_lot": 1000.0,
           "net_debit": 0,
-          "net_credit": 1.69,
-          "breakeven": 7798.31,
-          "prob": 0.002
+          "net_credit": 0.0,
+          "breakeven": 100.0,
+          "prob": 0.0
         }
       ]
     },
     {
-      "symbol": "RECLTD",
+      "symbol": "CUMMINSIND",
       "rank": 1,
       "status": "watchlist",
       "setup_type": "PE Squeeze",
       "expiry": "Nov26",
-      "dte": 46,
-      "spot_entry": 295.0,
-      "strategy_name": "Put Diagonal (~est)",
-      "strategy_short": "Diagonal",
+      "dte": 45,
+      "spot_entry": 4830.0,
+      "strategy_name": "Seagull",
+      "strategy_short": "Seagull",
       "lot_size": 100,
       "legs": [
         {
           "action": "BUY",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 300,
-          "premium": 3.2,
-          "label": "300 PE (far ~76d)"
+          "strike": 4850,
+          "premium": 25.23,
+          "label": "4850 PE"
         },
         {
           "action": "SELL",
           "qty": 1,
           "opt_type": "PUT",
-          "strike": 280,
-          "premium": 0.0,
-          "label": "280 PE (near 46d)"
-        }
-      ],
-      "net_debit_per_share": 3.2,
-      "net_credit_per_share": 0,
-      "net_debit_per_lot": 320.0,
-      "net_credit_per_lot": 0,
-      "max_profit_per_lot": 1520.14,
-      "max_loss_per_lot": 320.02,
-      "rr": 4.75,
-      "breakeven": 296.8,
-      "prob_of_profit": 0.456,
-      "all_strategies": [
-        {
-          "name": "Put Diagonal (~est)",
-          "rr": 4.75,
-          "max_profit_lot": 1520.14,
-          "max_loss_lot": 320.02,
-          "net_debit": 3.2,
-          "net_credit": 0,
-          "breakeven": 296.8,
-          "prob": 0.456
+          "strike": 4600,
+          "premium": 0.01,
+          "label": "4600 PE"
         },
         {
+          "action": "SELL",
+          "qty": 1,
+          "opt_type": "CALL",
+          "strike": 5100,
+          "premium": 0.11,
+          "label": "5100 CE"
+        }
+      ],
+      "net_debit_per_share": 25.1,
+      "net_credit_per_share": 0,
+      "net_debit_per_lot": 2510.0,
+      "net_credit_per_lot": 0,
+      "max_profit_per_lot": 22489.54,
+      "max_loss_per_lot": 2510.46,
+      "rr": 8.96,
+      "breakeven": 4824.9,
+      "prob_of_profit": 0.306,
+      "all_strategies": [
+        {
           "name": "Seagull",
-          "rr": 4.56,
-          "max_profit_lot": 1640.16,
-          "max_loss_lot": 359.84,
-          "net_debit": 3.6,
+          "rr": 8.96,
+          "max_profit_lot": 22489.54,
+          "max_loss_lot": 2510.46,
+          "net_debit": 25.1,
           "net_credit": 0,
-          "breakeven": 296.4,
-          "prob": 0.426
+          "breakeven": 4824.9,
+          "prob": 0.306
         },
         {
           "name": "Put Butterfly",
-          "rr": 4.53,
-          "max_profit_lot": 1638.43,
-          "max_loss_lot": 361.57,
-          "net_debit": 3.62,
+          "rr": 8.92,
+          "max_profit_lot": 22479.66,
+          "max_loss_lot": 2520.34,
+          "net_debit": 25.2,
           "net_credit": 0,
-          "breakeven": 296.38,
-          "prob": 0.425
+          "breakeven": 4824.8,
+          "prob": 0.305
         },
         {
           "name": "Bear Put Spread (at target)",
-          "rr": 4.53,
-          "max_profit_lot": 1638.38,
-          "max_loss_lot": 361.62,
-          "net_debit": 3.62,
+          "rr": 8.91,
+          "max_profit_lot": 22478.43,
+          "max_loss_lot": 2521.57,
+          "net_debit": 25.22,
           "net_credit": 0,
-          "breakeven": 296.38,
-          "prob": 0.425
+          "breakeven": 4824.78,
+          "prob": 0.305
         },
         {
           "name": "Long Put",
-          "rr": 4.53,
-          "max_profit_lot": 1638.34,
-          "max_loss_lot": 361.66,
-          "net_debit": 3.62,
+          "rr": 8.91,
+          "max_profit_lot": 22477.09,
+          "max_loss_lot": 2522.91,
+          "net_debit": 25.23,
           "net_credit": 0,
-          "breakeven": 296.38,
-          "prob": 0.425
+          "breakeven": 4824.77,
+          "prob": 0.305
+        },
+        {
+          "name": "Put Diagonal (~est)",
+          "rr": 8.03,
+          "max_profit_lot": 19933.05,
+          "max_loss_lot": 2483.56,
+          "net_debit": 24.84,
+          "net_credit": 0,
+          "breakeven": 4825.16,
+          "prob": 0.307
         },
         {
           "name": "Put Ratio 1:2",
-          "rr": 2.07,
-          "max_profit_lot": 674.25,
-          "max_loss_lot": 325.75,
-          "net_debit": 3.26,
+          "rr": 5.29,
+          "max_profit_lot": 12614.62,
+          "max_loss_lot": 2385.38,
+          "net_debit": 23.85,
           "net_credit": 0,
-          "breakeven": 296.74,
-          "prob": 0.452
+          "breakeven": 4826.15,
+          "prob": 0.311
         },
         {
           "name": "Bear Put Spread (tight)",
-          "rr": 1.91,
-          "max_profit_lot": 656.29,
-          "max_loss_lot": 343.71,
-          "net_debit": 3.44,
+          "rr": 5.11,
+          "max_profit_lot": 12545.86,
+          "max_loss_lot": 2454.14,
+          "net_debit": 24.54,
           "net_credit": 0,
-          "breakeven": 296.56,
-          "prob": 0.438
+          "breakeven": 4825.46,
+          "prob": 0.308
         },
         {
           "name": "Bear Call Spread (credit)",
-          "rr": 0.12,
-          "max_profit_lot": 104.63,
-          "max_loss_lot": 895.37,
+          "rr": 0.87,
+          "max_profit_lot": 2323.54,
+          "max_loss_lot": 2676.46,
           "net_debit": 0,
-          "net_credit": 1.05,
-          "breakeven": 301.05,
-          "prob": 0.755
-        },
-        {
-          "name": "Put Backspread",
-          "rr": 0.48,
-          "max_profit_lot": 325.75,
-          "max_loss_lot": 674.25,
-          "net_debit": 0,
-          "net_credit": 3.26,
-          "breakeven": 283.26,
-          "prob": 0.003
+          "net_credit": 23.24,
+          "breakeven": 4873.24,
+          "prob": 0.524
         },
         {
           "name": "Twisted Sister",
-          "rr": 0.0,
-          "max_profit_lot": 1.82,
-          "max_loss_lot": 1998.18,
+          "rr": 0.03,
+          "max_profit_lot": 245.31,
+          "max_loss_lot": 9754.69,
           "net_debit": 0,
-          "net_credit": 0.02,
-          "breakeven": 279.98,
-          "prob": 0.0
+          "net_credit": 2.45,
+          "breakeven": 4597.55,
+          "prob": 0.001
         }
       ]
     }
