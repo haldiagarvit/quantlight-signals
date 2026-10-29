@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-29 20:58",
+  "generated_at": "2026-10-29 23:50",
   "source": "ui-headless",
-  "data_date": "2026-10-28",
-  "total_setups": 3,
+  "data_date": "2026-10-29",
+  "total_setups": 1,
   "counts": {
     "current": {
       "expiry": "Nov26",
       "dte": 25,
-      "total": 2,
+      "total": 1,
       "actionable": 0,
-      "watchlist": 2
+      "watchlist": 1
     },
     "next": {
       "expiry": "Dec26",
       "dte": 61,
-      "total": 1,
+      "total": 0,
       "actionable": 0,
-      "watchlist": 1
+      "watchlist": 0
     }
   },
   "setups": [
     {
-      "symbol": "RECLTD",
+      "symbol": "ASHOKLEY",
       "rank": 1,
       "status": "watchlist",
       "watch_reason": "Entry Missed — Watch for Retest",
@@ -31,63 +31,17 @@
       "direction": "PUT",
       "expiry": "Nov26",
       "dte": 25,
-      "spot_entry": 290,
-      "spot_sl": 292.9,
-      "spot_target": 275,
-      "spot_rr": 5.69,
+      "spot_entry": 145,
+      "spot_sl": 146.45,
+      "spot_target": 137.5,
+      "spot_rr": 6.36,
       "option_type": "PE",
-      "option_strike": 290,
-      "option_rr": 2.16,
-      "score": 5.69,
-      "regime": "+2",
-      "pattern": "rug",
-      "ivp": 82.9
-    },
-    {
-      "symbol": "TATAPOWER",
-      "rank": 2,
-      "status": "watchlist",
-      "watch_reason": "Entry Missed — Watch for Retest",
-      "expiry_slot": "current",
-      "approaching": false,
-      "setup_type": "PE Squeeze",
-      "direction": "PUT",
-      "expiry": "Nov26",
-      "dte": 25,
-      "spot_entry": 335,
-      "spot_sl": 338.35,
-      "spot_target": 318.25,
-      "spot_rr": 6.4,
-      "option_type": "PE",
-      "option_strike": 340,
-      "option_rr": 2.17,
-      "score": 6.4,
+      "option_strike": 145,
+      "option_rr": 1.05,
+      "score": 6.36,
       "regime": "+1",
       "pattern": "rug",
-      "ivp": 57.9
-    },
-    {
-      "symbol": "TATAPOWER",
-      "rank": 1,
-      "status": "watchlist",
-      "watch_reason": "Entry Missed — Watch for Retest",
-      "expiry_slot": "next",
-      "approaching": false,
-      "setup_type": "PE Squeeze",
-      "direction": "PUT",
-      "expiry": "Dec26",
-      "dte": 61,
-      "spot_entry": 335,
-      "spot_sl": 338.35,
-      "spot_target": 318.25,
-      "spot_rr": 6.4,
-      "option_type": "PE",
-      "option_strike": 340,
-      "option_rr": 2.32,
-      "score": 6.4,
-      "regime": "+1",
-      "pattern": "rug",
-      "ivp": 57.9
+      "ivp": 17.9
     }
   ]
 }
