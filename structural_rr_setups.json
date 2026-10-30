@@ -1,47 +1,70 @@
 {
-  "generated_at": "2026-10-30 22:10",
+  "generated_at": "2026-10-30 22:55",
   "source": "ui-headless",
-  "data_date": "2026-10-29",
-  "total_setups": 1,
+  "data_date": "2026-10-30",
+  "total_setups": 2,
   "counts": {
     "current": {
       "expiry": "Nov26",
       "dte": 24,
       "total": 1,
-      "actionable": 0,
-      "watchlist": 1
+      "actionable": 1,
+      "watchlist": 0
     },
     "next": {
       "expiry": "Dec26",
       "dte": 60,
-      "total": 0,
-      "actionable": 0,
+      "total": 1,
+      "actionable": 1,
       "watchlist": 0
     }
   },
   "setups": [
     {
-      "symbol": "ASHOKLEY",
+      "symbol": "POWERINDIA",
       "rank": 1,
-      "status": "watchlist",
-      "watch_reason": "Entry Missed — Watch for Retest",
+      "status": "actionable",
+      "watch_reason": null,
       "expiry_slot": "current",
       "approaching": false,
-      "setup_type": "PE Squeeze",
+      "setup_type": "PE Setup",
       "direction": "PUT",
       "expiry": "Nov26",
       "dte": 24,
-      "spot_entry": 145,
-      "spot_sl": 146.45,
-      "spot_target": 137.5,
-      "spot_rr": 6.36,
+      "spot_entry": 27225,
+      "spot_sl": 28534.25,
+      "spot_target": 22500,
+      "spot_rr": 3.61,
       "option_type": "PE",
-      "option_strike": 145,
-      "option_rr": 1.08,
-      "score": 6.36,
-      "regime": "+1",
-      "pattern": "rug",
-      "ivp": 17.9
+      "option_strike": 27200,
+      "option_rr": 4.71,
+      "score": 3.61,
+      "regime": "-1",
+      "pattern": "neutral",
+      "ivp": 46.4
+    },
+    {
+      "symbol": "POWERINDIA",
+      "rank": 1,
+      "status": "actionable",
+      "watch_reason": null,
+      "expiry_slot": "next",
+      "approaching": false,
+      "setup_type": "PE Setup",
+      "direction": "PUT",
+      "expiry": "Dec26",
+      "dte": 60,
+      "spot_entry": 27225,
+      "spot_sl": 28534.25,
+      "spot_target": 22500,
+      "spot_rr": 3.61,
+      "option_type": "PE",
+      "option_strike": 27200,
+      "option_rr": 1.86,
+      "score": 3.61,
+      "regime": "-1",
+      "pattern": "neutral",
+      "ivp": 46.4
     }
   ]
 }
