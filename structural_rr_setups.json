@@ -1,70 +1,23 @@
 {
-  "generated_at": "2026-10-30 22:55",
+  "generated_at": "2026-11-02 22:56",
   "source": "ui-headless",
-  "data_date": "2026-10-30",
-  "total_setups": 2,
+  "data_date": "2026-11-02",
+  "total_setups": 0,
   "counts": {
     "current": {
       "expiry": "Nov26",
-      "dte": 24,
-      "total": 1,
-      "actionable": 1,
+      "dte": 21,
+      "total": 0,
+      "actionable": 0,
       "watchlist": 0
     },
     "next": {
       "expiry": "Dec26",
-      "dte": 60,
-      "total": 1,
-      "actionable": 1,
+      "dte": 57,
+      "total": 0,
+      "actionable": 0,
       "watchlist": 0
     }
   },
-  "setups": [
-    {
-      "symbol": "POWERINDIA",
-      "rank": 1,
-      "status": "actionable",
-      "watch_reason": null,
-      "expiry_slot": "current",
-      "approaching": false,
-      "setup_type": "PE Setup",
-      "direction": "PUT",
-      "expiry": "Nov26",
-      "dte": 24,
-      "spot_entry": 27225,
-      "spot_sl": 28534.25,
-      "spot_target": 22500,
-      "spot_rr": 3.61,
-      "option_type": "PE",
-      "option_strike": 27200,
-      "option_rr": 4.71,
-      "score": 3.61,
-      "regime": "-1",
-      "pattern": "neutral",
-      "ivp": 46.4
-    },
-    {
-      "symbol": "POWERINDIA",
-      "rank": 1,
-      "status": "actionable",
-      "watch_reason": null,
-      "expiry_slot": "next",
-      "approaching": false,
-      "setup_type": "PE Setup",
-      "direction": "PUT",
-      "expiry": "Dec26",
-      "dte": 60,
-      "spot_entry": 27225,
-      "spot_sl": 28534.25,
-      "spot_target": 22500,
-      "spot_rr": 3.61,
-      "option_type": "PE",
-      "option_strike": 27200,
-      "option_rr": 1.86,
-      "score": 3.61,
-      "regime": "-1",
-      "pattern": "neutral",
-      "ivp": 46.4
-    }
-  ]
+  "setups": []
 }
