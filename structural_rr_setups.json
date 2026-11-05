@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-04 23:40",
+  "generated_at": "2026-11-05 23:23",
   "source": "ui-headless",
-  "data_date": "2026-11-04",
+  "data_date": "2026-11-05",
   "total_setups": 0,
   "counts": {
     "current": {
       "expiry": "Nov26",
-      "dte": 19,
+      "dte": 18,
       "total": 0,
       "actionable": 0,
       "watchlist": 0
     },
     "next": {
       "expiry": "Dec26",
-      "dte": 55,
+      "dte": 54,
       "total": 0,
       "actionable": 0,
       "watchlist": 0
